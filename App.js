@@ -9,10 +9,10 @@ export default function App() {
     <>
       <SafeAreaView style={styles.container}>
       <View style={styles.search}>
-        <Text>Search</Text>
+        <Text>Search bar will go here</Text>
       </View>
       <View style={styles.body}>
-        <Text>Body</Text>
+        <Text>Body--TBD</Text>
       </View>
       </SafeAreaView>
       <ExpoStatusBar style="auto" />
